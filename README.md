@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prabin Dhakal
      Currently studying Bachelors in Information Technology at Metropolia.
 - 🌱 I’m currently learning Android, JS, JAVA
-- 💞️ I’m looking to collaborate on Android Projects
 - 📫 How to reach me dhakalprabin7@gmail.com / https://www.linkedin.com/in/prabin-dhakal7/
 
 <!---
