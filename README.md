@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prabin1500
+- 👋 Hi, I’m Prabin Dhakal
      Currently studying Bachelors in Information Technology at Metropolia.
 - 🌱 I’m currently learning Android, JS, JAVA
 - 💞️ I’m looking to collaborate on Android Projects
